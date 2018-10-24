@@ -1,0 +1,2 @@
+# Linear_Equation
+This is the modified version of last uploaded progam of mine where the program solve 2 variable linear equation, but in this section the program can solve 3 variable linear equation with logically testing the values of each variable,  let for example-- 3x+3y+3z=27-----(i) 5x+6y+7z=56-----(ii) 3x+4y+z=22------(iii) after running the game you will get the value as, x=2 y=3 z=4 **You may use Gaussian or Cramers rule to solve this equations and try for the solution.
